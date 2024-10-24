@@ -9,7 +9,7 @@
 </head>
 <body>
 <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
-  <a class="navbar-brand" href="#">SAUMYA BLOG'S</a>
+  <a class="navbar-brand" href="#">PERSONAL BLOG'S</a>
   <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
     <span class="navbar-toggler-icon"></span>
   </button>
@@ -172,8 +172,8 @@
         <h2 class="text-center">ABOUT US</h2>
     </div>
     <div class="container-fluid">
-        <h3 class="text-center">SAUMYA UPADHYAY</h3><br>
-        <p class="text-center"><b> I am a passionate computer science student doing MCAfrom lal bahadur shashtri through out my whole career i developed several project</b></p>
+        <h3 class="text-center">CHARU CHANDRA MISHRA</h3><br>
+        <p class="text-center"><b>PHONE: </b></p>
     </div>
 </section>    
 </a>
